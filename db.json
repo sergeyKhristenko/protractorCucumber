@@ -1,0 +1,44 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Read SitePoint article",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "Clean inbox",
+      "complete": false
+    },
+    {
+      "id": 3,
+      "title": "Make restaurant reservation",
+      "complete": false
+    },
+    {
+      "title": "buy pizza",
+      "complete": false,
+      "id": 4
+    },
+    {
+      "title": "New Todo",
+      "complete": false,
+      "id": 5
+    },
+    {
+      "title": "New Todo",
+      "complete": false,
+      "id": 6
+    },
+    {
+      "title": "New Todo",
+      "complete": false,
+      "id": 7
+    },
+    {
+      "title": "New Todo",
+      "complete": false,
+      "id": 8
+    }
+  ]
+}
